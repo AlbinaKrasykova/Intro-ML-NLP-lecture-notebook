@@ -1,8 +1,13 @@
 # NLP-interactive-hands-on-lecture- 
 
+![alt text]([http://url/to/img.png](https://github.com/AlbinaKrasykova/Intro-ML-NLP-lecture-notebook/blob/main/Text_Summary_App_Demo.gif))
+
 **Machine Learning NLP hands on lecture focused on understanding the key NLP concepts, apply it by building**    
 
-Plan for the Machine Learning NLP session at Lehman College 
++ Plan for the Machine Learning NLP session at Lehman College 
+
+Project : Text Summarization App
+Project : Text Summarization App
 
 + ML & NLP definition
 + ML lifecycle
