@@ -1,4 +1,4 @@
-# NLP-interactive-hands-on-lecture- 
+# Hands On  NLP-interactive-hands-on-lecture- 
 
 ![plot](Text_Summary_App_Demo.gif)
 
