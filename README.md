@@ -1,6 +1,6 @@
 # Hands On  NLP-interactive lecture- 
 
-![plot](Text_Summary_App_Demo2.gif)
+![plot](Text_Summary_App_Demo_2.gif)
 
 **Machine Learning NLP hands on lecture focused on understanding the key NLP concepts, apply it by building**    
 
